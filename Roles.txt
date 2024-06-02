@@ -1,0 +1,16 @@
+﻿Parcial Martín Acosta
+
+
+ROLES
+
+
+Creé 2 roles a nivel reino, llamados app-reponedor y app-vendedor. 
+
+
+USUARIOS
+
+
+Hice 3 usuarios:
+* Vendedor: Con rol asociado app-vendedor.
+* Reponedor: Con rol asociado app-reponedor.
+* Admin: Con ambos roles asociados y que pueda manejar la administración de usuarios.
